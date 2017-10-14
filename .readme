@@ -1,0 +1,26 @@
+
+npm install express body-parser cross-env mongoose
+npm install --save-dev babel-preset-env babel-cli babel-plugin-transform-object-rest-spread
+npm install --save-dev morgan eslint eslint-config-equimper
+
+genarate editorconfig
+add file .eslintrc
+add file .eslintingnore
+add file .babelrc
+
+npm install nodemon --save-dev
+
+add config folder
+add constants.js
+add db.js
+add middlewares.js
+
+npm install mongoose-unique-validator bcrypt-nodejs
+
+npm install passport passport-local jsonwebtoken passport-jwt
+
+npm install nodemailer --save
+How to Send an Email in Node.js: https://www.youtube.com/watch?v=YU3qstG74nw
+Confirmation Email with Node.js: https://www.youtube.com/watch?v=76tKpVbjhu8
+
+
